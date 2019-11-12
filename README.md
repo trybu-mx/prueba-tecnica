@@ -3,10 +3,10 @@ Prueba técnica Trybü
 En este repositorio hay una app Javascript: con ​React y React Router.
 
 Esta app necesita consumir algún API pública de la siguiente lista, debe de mostrar un personaje y al darle click que me muestre el detalle del personaje. La lista de las APIs es:
-[https://rickandmortyapi.com]
-[http://pokeapi.co]
-[https://swapi.co] 
-[https://developer.marvel.com]
+https://rickandmortyapi.com,
+http://pokeapi.co,
+https://swapi.co,
+https://developer.marvel.com
 Por favor trabaja en un branch aparte y después envía un pull request a master para revisarlo.
 Crea una cuenta en Heroku y sube el proyecto junto con el Heroku Buildpack for create-react-app
 
